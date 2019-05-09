@@ -1,0 +1,10 @@
+1. Add properties with the fields name, city, description, number of rooms available, price(for each room per day), multiple images.
+2. Search the properties based on city basis, checkin date, checkout date, number of rooms required.
+3. List all the properties matches the search query with available number of rooms and price for one day, if there is no rooms available for that property for the specific date range, don't show that property.
+4. User can able to see all the details of the individual property from the list page.
+5. User can book the property rooms for the specific dates and the room availability should be reduced for the same date range.
+6. List all the bookings.
+
+Note : All needs to in API with JSON response, use any PHP MVC framework to write API's, use MYSQL as the database.
+
+Send us the complete code with API documentation, DB architecture and DB dump in sql format.
